@@ -1,0 +1,4 @@
+echo "Hello Rajat how are you!"
+echo "enter the name you want to replace"
+read p
+echo "$p how are you"
