@@ -1,0 +1,9 @@
+#!/bin/bash -x
+echo "How many no. of times you want to toss a coin"
+read Coin
+if [$Coin==1]
+then
+echo "Head"
+elif [$Tail==0]
+then
+echo "Tail"
