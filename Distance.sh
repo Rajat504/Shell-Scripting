@@ -5,3 +5,4 @@ read y
 sum=$(($(($x*$x)) + $(($y*$y))))
 echo $sum
 a=$(echo $sum|awk '{print sqrt($1)'})
+echo $a

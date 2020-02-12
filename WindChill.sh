@@ -1,4 +1,4 @@
-#!/bin/bash/ 
+#!/bin/bash/ -x
 read -p "Enter the value of temperature in wind speed"  t  v
 #formula=34.74+0.6215+(0.4274*t-35.75)*Math.pow(v,0.16)
 #a1=35.74,a2=0.6215,a3=0.4274,a4=35.75,a5=t,a6=v,a7=0.16

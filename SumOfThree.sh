@@ -1,3 +1,4 @@
+#!/bin/bash/ -x
 echo "enter the length of array"
 read L
 p=$L
